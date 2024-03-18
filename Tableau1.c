@@ -22,5 +22,5 @@ int main(int argc, char const *argv[])
     return 0;
 }
 /*todo
-meme tableau en supprimant la redondonce au lieux de filtrer les chiffre entre 12 et 1
+meme tableau en supprimant la redondance au lieux de filtrer les chiffre entre 12 et 1
 */
