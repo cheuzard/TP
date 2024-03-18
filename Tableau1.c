@@ -4,7 +4,7 @@
 int main(int argc, char const *argv[])
 {
     int tab[12];
-    printf("inserez les élements du tableau ");
+    printf("inserez les élements du tableau \n");
     for (int i = 0; i < 12; i++)
     {
         int v;
